@@ -8,4 +8,4 @@
 
 ## Aprendendo
 
-[![Angula]([https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white))](https://github.com/Andrioh/Angula)
+[![Angula](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/Andrioh/Angula)
